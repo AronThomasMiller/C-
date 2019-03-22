@@ -1,0 +1,7 @@
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\bin\Debug\JSTask6.exe.config
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\bin\Debug\JSTask6.exe
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\bin\Debug\JSTask6.pdb
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\obj\Debug\JSTask6.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\obj\Debug\JSTask6.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\obj\Debug\JSTask6.exe
+C:\Users\AronThomasMiller\source\repos\JSTask6\JSTask6\obj\Debug\JSTask6.pdb

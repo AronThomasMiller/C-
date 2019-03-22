@@ -1,0 +1,6 @@
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\bin\Debug\JSTask2.exe.config
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\bin\Debug\JSTask2.exe
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\bin\Debug\JSTask2.pdb
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\obj\Debug\JSTask2.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\obj\Debug\JSTask2.exe
+C:\Users\AronThomasMiller\source\repos\JSTask2\JSTask2\obj\Debug\JSTask2.pdb

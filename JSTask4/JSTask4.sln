@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSTask4", "JSTask4\JSTask4.csproj", "{FD9D084F-3C54-47D1-837D-5E2FF34F0250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9D084F-3C54-47D1-837D-5E2FF34F0250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9D084F-3C54-47D1-837D-5E2FF34F0250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9D084F-3C54-47D1-837D-5E2FF34F0250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9D084F-3C54-47D1-837D-5E2FF34F0250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D2771F-7020-47F5-974E-1852A2AC58C7}
+	EndGlobalSection
+EndGlobal

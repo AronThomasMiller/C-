@@ -1,0 +1,14 @@
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\bin\Debug\JSTask7.exe.config
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\bin\Debug\JSTask7.exe
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\bin\Debug\JSTask7.pdb
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\obj\Debug\JSTask7.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\obj\Debug\JSTask7.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\obj\Debug\JSTask7.exe
+C:\Users\AronThomasMiller\source\repos\JSTask7\JSTask7\obj\Debug\JSTask7.pdb
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\bin\Debug\JSTask7.exe.config
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\bin\Debug\JSTask7.exe
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\bin\Debug\JSTask7.pdb
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\obj\Debug\JSTask7.csprojAssemblyReference.cache
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\obj\Debug\JSTask7.csproj.CoreCompileInputs.cache
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\obj\Debug\JSTask7.exe
+C:\Users\AronThomasMiller\Desktop\JSTask7\JSTask7\obj\Debug\JSTask7.pdb
